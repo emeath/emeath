@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @emeath
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java, Spring Boot, React, Javascript, NodeJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning PHP, code-igniter, Laravel, HTML, CSS, Javascript
 
 <!---
 emeath/emeath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
